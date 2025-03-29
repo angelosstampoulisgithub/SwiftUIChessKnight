@@ -1,1 +1,2 @@
 # SwiftUIChessKnight
+Simple Chess Game
